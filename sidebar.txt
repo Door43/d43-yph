@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yph:home|Door43 (yph)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yph|d43-yph repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yph/archive/master.zip|d43-yph.zip]]
+
+**Recent Changes**
+{{changes>ns = yph}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yph|Ethnologue data]]
+
